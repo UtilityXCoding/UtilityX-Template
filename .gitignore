@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # User-specific stuff
 .idea/
 
@@ -13,6 +14,9 @@ out/
 # JIRA plugin
 atlassian-ide-plugin.xml
 
+=======
+# ---> Java
+>>>>>>> 62677a65825a71e8ef1e46611557eb7fbef00ffa
 # Compiled class file
 *.class
 
@@ -22,6 +26,12 @@ atlassian-ide-plugin.xml
 # BlueJ files
 *.ctxt
 
+<<<<<<< HEAD
+=======
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+>>>>>>> 62677a65825a71e8ef1e46611557eb7fbef00ffa
 # Package Files #
 *.jar
 *.war
@@ -33,6 +43,7 @@ atlassian-ide-plugin.xml
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+<<<<<<< HEAD
 
 *~
 
@@ -117,3 +128,7 @@ runs/
 
 # Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
 !gradle-wrapper.jar
+=======
+replay_pid*
+
+>>>>>>> 62677a65825a71e8ef1e46611557eb7fbef00ffa

@@ -1,4 +1,4 @@
-package xyz.blackdev.utilityXTemplate.utils;
+package xyz.blackdev.utilityxcore.utils;
 
 import java.io.InputStream;
 import java.nio.file.Files;

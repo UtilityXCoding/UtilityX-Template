@@ -1,6 +1,6 @@
 name: UtilityX-Template
 version: '0725'
-main: xyz.blackdev.utilityXTemplate.UtilityXCore
+main: xyz.blackdev.utilityxcore.UtilityXCore
 api-version: '1.21'
 prefix: UX
 load: STARTUP

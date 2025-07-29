@@ -1,7 +1,6 @@
-package xyz.blackdev.utilityXTemplate;
+package xyz.blackdev.utilityxcore;
 
 import org.bukkit.plugin.java.JavaPlugin;
-import xyz.blackdev.utilityXTemplate.utils.DownloadUtil;
 
 import java.util.logging.Logger;
 

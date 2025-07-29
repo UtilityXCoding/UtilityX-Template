@@ -17,7 +17,7 @@ public final class UtilityXCore extends JavaPlugin {
     @Override
     public void onDisable() {
 
-
+    logger.info("UtilityXCore has been disabled!");
 
     }
 }
